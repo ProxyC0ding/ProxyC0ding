@@ -39,15 +39,13 @@
 ---
 
 
+### ⚡ GitHub Stats
+
+<img align="left" alt="ProxyC0ding's Stats" src="https://github-readme-stats.vercel.app/api?username=ProxyC0ding&show_icons=true&hide_border=true" />
+
+---
 
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ProxyC0ding's Stats" src="https://github-readme-stats.vercel.app/api?username=ProxyC0ding&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://proxyop.me
 [youtube]: https://www.youtube.com/channel/UC1q9bHN1dy6jqi71fUjNvaw
