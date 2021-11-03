@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=proxyop.me&style=for-the-badge&url=https%3A%2F%2Fproxyop.me)](https://proxyop.me)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm an apprentice developer!
 
 - 🔭 I just launched [Agar Tool][agarstudios] with @YoSoyAngi
 - 🌱 I’m currently learning Python
