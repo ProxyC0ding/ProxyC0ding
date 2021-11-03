@@ -4,7 +4,7 @@
 
 ## I'm an apprentice developer!
 
-- 🔭 I just launched [Agar Tool][agarstudios] with @YoSoyAngi
+- 🔭 I just launched [Agar Tool][agarstudios] with [@YoSoyAngi][yosoyangi]
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -56,3 +56,4 @@
 [github]: https://github.com
 [termux]: https://termux.com/
 [agarstudios]: https://discord.gg/rBunT9U7U9
+[yosoyangi]: https://github.com/YoSoyAngi
