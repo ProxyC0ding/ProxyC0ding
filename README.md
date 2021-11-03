@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched [Agar Tool][agarstudios] with @YoSoyAngi!
+- 🔭 I just launched [Agar Tool][agarstudios] with @YoSoyAngi
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
