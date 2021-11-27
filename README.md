@@ -35,6 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SPOTIFY ACCOUNT GENERATOR [FREE] - Proxy](https://www.youtube.com/watch?v=j1u0a3jxZD4)
 <!-- YOUTUBE:END -->
 
 ---
