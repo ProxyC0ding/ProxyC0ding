@@ -35,6 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ToolHub Review](https://www.youtube.com/watch?v=kZD8fCJwVMY)
 - [ToolHub Gen Preview](https://www.youtube.com/watch?v=ogRNWDkzh2c)
 - [SPOTIFY ACCOUNT GENERATOR [FREE] - Proxy](https://www.youtube.com/watch?v=j1u0a3jxZD4)
 <!-- YOUTUBE:END -->
