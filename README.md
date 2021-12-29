@@ -4,7 +4,7 @@
 
 ## I'm an apprentice developer!
 
-- 🔭 I just launched [Agar Tool][agarstudios] with [@YoSoyAngi][yosoyangi]
+- 🔭 Moderator @ [@YoSoyAngi][yosoyangi]'s server [Lucky City][luckycity] with 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -59,6 +59,6 @@
 [git]: https://git-scm.com/
 [github]: https://github.com
 [termux]: https://termux.com/
-[agarstudios]: https://discord.gg/rBunT9U7U9
+[luckycity]: https://discord.gg/tools
 [yosoyangi]: https://github.com/YoSoyAngi
 [python]: https://python.org
