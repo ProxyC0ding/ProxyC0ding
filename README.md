@@ -4,7 +4,7 @@
 
 ## I'm an apprentice developer!
 
-- 🔭 Moderator @ [@YoSoyAngi][yosoyangi]'s server [Lucky City][luckycity] with 
+- 🔭 Moderator at [@YoSoyAngi][yosoyangi]'s server [Lucky City][luckycity] with 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
