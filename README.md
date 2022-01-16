@@ -1,6 +1,8 @@
 ### Hi there, I'm Danny - aka [Proxy][website] 👋
 
-[![Website](https://img.shields.io/website?label=proxyop.me&style=for-the-badge&url=https%3A%2F%2Fproxyop.me)](https://proxyop.me)
+<p align="center">
+    <img align="center" src="https://img.shields.io/website?label=proxyop.me&style=for-the-badge&url=https%3A%2F%2Fproxyop.me" />
+</p>
 
 <p align="center">
     <img align="center" src="https://discord.c99.nl/widget/theme-3/901585419395825664.png" />
