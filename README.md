@@ -13,7 +13,7 @@
 - 🔭 Moderator at [@YoSoyAngi][yosoyangi]'s server: [Unlucky City][unluckycity]!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects, create a community via Discord
+- 🥅 2022 Goals: Contribute more to Open Source projects & create a community via Discord
 - ⚡ Fact: I love to draw and code
 
 ### Connect with me:
