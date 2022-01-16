@@ -8,7 +8,7 @@
 
 ## I'm an apprentice developer!
 
-- 🔭 Moderator at [@YoSoyAngi][yosoyangi]'s server [Lucky City][luckycity] with 
+- 🔭 Moderator at [@YoSoyAngi][yosoyangi]'s server: [Unlucky City][unluckycity]!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -63,6 +63,6 @@
 [git]: https://git-scm.com/
 [github]: https://github.com
 [termux]: https://termux.com/
-[luckycity]: https://discord.gg/tools
+[unluckycity]: https://discord.gg/gen
 [yosoyangi]: https://github.com/YoSoyAngi
 [python]: https://python.org
